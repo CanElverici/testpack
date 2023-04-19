@@ -2,19 +2,19 @@
 % Please edit documentation in R/f1.R
 \name{f1}
 \alias{f1}
-\title{Add F1 to your Text}
+\title{Add F1 to Your Text}
 \usage{
 f1(text = "default")
 }
 \arguments{
-\item{text}{A string}
+\item{text}{(character) the text to paste with "F1". Default = "default"}
 }
 \value{
-A string with F1 added
+A character vector of length 1.
 }
 \description{
-Add F1 to your Text
+Add F1 to Your Text
 }
 \examples{
-f1(text = "web")
+F1 <- f1(text = "web")
 }

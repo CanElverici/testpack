@@ -2,7 +2,7 @@
 % Please edit documentation in R/delpattern.R
 \name{delpattern}
 \alias{delpattern}
-\title{Delete files with matching names}
+\title{Delete Files with Matching Names}
 \usage{
 delpattern(directory, pattern, recursive = FALSE)
 }
@@ -17,7 +17,7 @@ delpattern(directory, pattern, recursive = FALSE)
 A vector of deleted files
 }
 \description{
-Delete files with matching names
+Delete Files with Matching Names
 }
 \examples{
 \dontrun{
