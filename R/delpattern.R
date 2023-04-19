@@ -1,4 +1,4 @@
-#' Delete files with matching names
+#' Delete Files with Matching Names
 #'
 #' @param directory A directory to process which includes files
 #' @param pattern A pattern that will be removed
